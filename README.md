@@ -1,62 +1,30 @@
-# Hi, I'm Srineha Alampally 👋
+## Skills
 
-### AI & Data Science Student | Machine Learning | GenAI | Full Stack Development
+### Programming & Development
+`Java` `Python` `SQL` `HTML5` `CSS3` `JavaScript` `React.js` `Node.js` 
 
----
+### AI & Machine Learning
+`Artificial Intelligence` `Machine Learning` `Data Science` 
 
-## 🛠️ Technologies & Tools
-
-### 💻 Programming
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,sql" />
-</p>
-
-### 🤖 AI & Machine Learning
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
-</p>
-
-### 🌐 Web Development
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
-</p>
-
-### 🗄️ Database & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,docker,postman" />
-</p>
+### Core Computer Science
+`Cyber Security` `Computer Networks` `Operating Systems` `DBMS`
 
 ---
 
-## 🚀 Projects
-
-<a href="https://github.com/srinehaaa/ai-blog-writing-agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=srinehaaa&repo=ai-blog-writing-agent&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/srinehaaa/network-log-analyzer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=srinehaaa&repo=network-log-analyzer&theme=tokyonight&hide_border=true" />
-</a>
-
----
-
-## 📊 GitHub Stats
+##  GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srinehaaa&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinehaaa&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=srinehaaa&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🔗 Connect With Me
+##  Certifications
 
-<p>
-<a href="https://github.com/srinehaaa">
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
-</a>
+-  **AWS Certified Cloud Practitioner** — AWS | 2026
+-  **Salesforce Certified Agentforce Specialist** — Salesforce | 2025
+-  **Oracle AI Foundations Associate** — Oracle | 2025
+-  **Data Analytics Job Simulation** — Deloitte | 2025
+-  **Full Stack Web Development with AI** — Internshala | 2024
 
-<a href="https://www.linkedin.com/in/srineha-alampally/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
-</p>
+---
