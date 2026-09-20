@@ -65,3 +65,5 @@
 -  **Full Stack Web Development with AI** — Internshala | 2024
 
 ---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srinehaaa&show_icons=true&rank=true)
